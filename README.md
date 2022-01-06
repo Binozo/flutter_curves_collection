@@ -1,5 +1,6 @@
 # Flutter Curves Collection
 Here are all Flutter Animation Curves visually displayed. (Taken from https://api.flutter.dev/flutter/animation/Curves-class.html)
 
-https://user-images.githubusercontent.com/70137898/148417467-e78cf1a2-0f4d-4efb-83a0-b9da12ba71e4.mp4
+
+![curve_bounce_in](https://user-images.githubusercontent.com/70137898/148417641-83e2c051-e2dc-4411-b104-27d2cc403157.gif)
 
